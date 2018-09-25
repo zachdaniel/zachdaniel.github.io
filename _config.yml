@@ -12,7 +12,7 @@ title: "Softwhale"
 description: "An Elixir, programming, and general technology blog."
 
 # Tagline near the site title
-tagline: "Things I've learned along the way."
+tagline: "Just keep shipping."
 
 # The subpath of your site, e.g. /blog, for generating urls
 baseurl:
@@ -44,7 +44,7 @@ author_image: /images/authorimage.jpg
 
 # Sidebar Add banner
 banner_url: "https://softwhale.io"
-banner_image: images/softwhale-shop.png
+banner_image: images/authorimage.jpg
 
 # # Sidebar newsletter widget - add your form action url for MailChimp signup form here
 # mailchimp_url: "//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117"
