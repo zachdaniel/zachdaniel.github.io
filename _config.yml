@@ -1,0 +1,65 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site title
+title: "Softwhale"
+
+# A description of your site for social meta tag, search engines, and feed.xml
+description: "An Elixir, programming, and general technology blog."
+
+# Tagline near the site title
+tagline: "Things I've learned along the way."
+
+# The subpath of your site, e.g. /blog, for generating urls
+baseurl:
+
+sass:
+  sass_dir: _sass
+
+# The base hostname & protocol of your site for where absolute urls are needed
+url: "http://softwhale.io"
+
+# Site navigation - each item must have a title and a url.
+navigation:
+- text: Home
+  url: /
+- text: About
+  url: /about/
+- text: Archives
+  url: /tags/
+
+# The shortname for your Disqus site to enable comments.
+disqus: softwhale
+
+# Author information - author info at the bottom of the post
+author_name: "Zach Daniel"
+author_bio: "I am an Elixir developer with a focus on functional programming and distributed software. Contributer to and creator of many open source packages. Active member of the Elixir community."
+author_url:  "http://softwhale.io/about"
+author_location: "Tampa, Florida"
+author_image: /images/authorimage.jpg
+
+# Sidebar Add banner
+banner_url: "https://softwhale.io"
+banner_image: images/softwhale-shop.png
+
+# # Sidebar newsletter widget - add your form action url for MailChimp signup form here
+# mailchimp_url: "//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117"
+
+# Social links in the site footer
+twitter_username: "ZachSDaniel"
+github_username: "zachdaniel"
+linkedin_username: "zachdaniel"
+
+# http://jekyllrb.com/docs/pagination/
+paginate: 5
+paginate_path: '/blog/page:num/'
+plugins: [jekyll-paginate]
+
+permalink: pretty
+markdown: kramdown
+kramdown:
+    auto_ids: false
