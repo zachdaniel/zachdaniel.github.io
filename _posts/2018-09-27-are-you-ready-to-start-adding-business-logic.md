@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Are you ready to start adding business logic?"
+title: "Are You Ready to Start Adding Business Logic?"
 date: 2018-09-27
 tags: [process, design]
 ---
@@ -29,7 +29,7 @@ much easier if we just had this from the beginning".
 * A testing harness
 * A metrics/monitoring tool
 * An error reporting tool
-* Tracing entrypoints
+* Tracing entry-points
 * Feature flagging
 * Dynamic/runtime configuration
 * Secret/encrypted data service
@@ -39,14 +39,14 @@ These things are *not* optional for a serious product. They only *feel* optional
 because we don't need them to get our hands on an MVP. Everything I listed up
 there comes with associated costs. Some of them cost money, and some of them
 cost time, and I've just said the same thing twice. The best way to find
-yourself overspending on technology is to scrimp on the foundation of a quality
-application, and see if the money you make from your product can outpace the
+yourself over-spending on technology is to scrimp on the foundation of a quality
+application, and see if the money you make from your product can out-pace the
 interest on your technical debt. If you've had experience with real, long-term
 technical debt, you'll know that isn't a race you want to find yourself in.
 
-> The best way to find yourself overspending on technology is to scrimp on the
+> The best way to find yourself over-spending on technology is to scrimp on the
 > foundation of a quality application, and see if the money you make from your
-> product can outpace the interest on your technical debt.
+> product can out-pace the interest on your technical debt.
 
 The important thing to note about that list, is that your v1 really doesn't need
 to include a full fledged version of any of those things. What you need is to
