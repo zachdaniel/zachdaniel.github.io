@@ -12,7 +12,7 @@ get some basic version up and running quickly so that we can start iterating.
 There is nothing wrong with focusing on speed, and we've all been in a place
 where we really had no choice. I would, however, like to urge anyone
 starting out on a significant project to reconsider exactly what constitutes the 
-"viable" in a minimum viable product. The bar is a lot higher than you'd like to think.
+"viable" in "minimum viable product". The bar is a lot higher than you'd like to think.
 
 <!--more-->
 
