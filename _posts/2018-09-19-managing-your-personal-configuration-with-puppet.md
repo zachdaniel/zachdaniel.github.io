@@ -2,13 +2,14 @@
 layout: post
 title: "Managing Your Personal Configuration With Puppet"
 date: 2018-09-19
-description: "A modern and extensible method of managing workstation configuration."
 tags: [puppet, tools]
 ---
 
 Managing my configuration has been one of my biggest pain points as a software developer. I've had to set up
 countless workstations and laptops, and have dealt with a constant barrage of issues that arise from not having a high
 quality configuration management tool.
+
+<!--more-->
 
 Problems:
 
