@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Are You Ready to Start Adding Business Logic?"
+title: "Are You Really Ready to Start Adding Business Logic?"
 date: 2018-09-27
 tags: [process, design]
 ---
